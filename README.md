@@ -1,6 +1,6 @@
-# Lab-9-Y86-ALU
+# Lab9_Y86-CPU
 
-Project to create an ALU using a simplified instruction set -> Y86_64  
+Project to create an CPU using a simplified instruction set -> Y86_64  
 Circuits are created using Logisim and shared over github
 Instructions to be inplemented:  
 <p>addl - Add function</p>  
